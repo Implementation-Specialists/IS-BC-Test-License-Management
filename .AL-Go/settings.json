@@ -3,8 +3,7 @@
   "country": "us",
   "appDependencyProbingPaths": [
     {
-      "repo": "https://github.com/Implementation-Specialists/IS-BC-License-Management",
-      "version": "latest",
+      "repo": "https://github.com/Implementation-Specialists/IS-BC-License-Management"
     }
   ],
   "appFolders": [],
