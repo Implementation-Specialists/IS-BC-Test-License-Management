@@ -1,6 +1,11 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.2/settings.schema.json",
   "country": "us",
+  "appDependencyProbingPaths": [
+    {
+      "repo": "https://github.com/Implementation-Specialists/IS-BC-License-Management"
+    }
+  ],
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
@@ -11,5 +16,7 @@
     "https://github.com/StefanMaron/BusinessCentral.LinterCop/releases/latest/download/BusinessCentral.LinterCop.dll"
   ],
   "vsixFile": "latest",
-  "failOn": "warning"
+  "failOn": "warning",
+  "generateDependencyArtifact": true,
+  "updateDependencies": true
 }
