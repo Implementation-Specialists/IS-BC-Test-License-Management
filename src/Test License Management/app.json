@@ -1,8 +1,8 @@
 {
-  "id": "6dd11c13-c686-4a1e-b364-7ac3c6b228ef",
+  "id": "66df3870-cffa-44fd-af73-1b4e6bbd648a",
   "name": "IS Test License Management",
   "publisher": "Implementation Specialists",
-  "version": "26.2.0.0",
+  "version": "1.0.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -17,10 +17,10 @@
       "version": "0.0.0.0",
       "publisher": "Implementation Specialists"
     }
-  ],
+  ],s
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "26.2.0.0",
+  "application": "26.0.0.0",
   "idRanges": [
     {
       "from": 66016,
