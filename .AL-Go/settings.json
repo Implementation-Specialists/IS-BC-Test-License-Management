@@ -1,6 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.2/settings.schema.json",
   "country": "us",
+  "artifact": "////latest",
   "appDependencyProbingPaths": [
     {
       "repo": "https://github.com/Implementation-Specialists/IS-BC-License-Management"
@@ -9,7 +10,7 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "repoVersion": "26.2",
+  "repoVersion": "1.0.0.0",
   "enableCodeCop": true,
   "enableUICop": true,
   "customCodeCops": [
